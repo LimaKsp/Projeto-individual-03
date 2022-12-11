@@ -1,0 +1,52 @@
+{
+  "Clientes": [
+    {
+      "Nome": "Gabriel de Lima",
+      "Telefone": " 21 9 8101-4381",
+      "Endereço": " Est. da Maravilha,16",
+      "Objetivo": " Hipertrofia ",
+      "Matricula": " 22190 ",
+      "id": 1
+    },
+    {
+      "Nome": "Felipe",
+      "Telefone": " 21 9 9999-9999",
+      "Endereço": "Rua de teste,15",
+      "Objetivo": "Emagrecimento",
+      "Matricula": " 22191 ",
+      "id": 2
+    }
+  ],
+  "Planos": [
+    {
+      "Assinatura": "Trimestral ",
+      "Turno de Treino": " Noite ",
+      "Instrutor": "Thiago",
+      " Avaliador": "Marcus",
+      "id": 1
+    },
+    {
+      "Assinatura": "Semestral ",
+      "Turno de Treino": " Tarde ",
+      "Instrutor": " Araujo ",
+      "Avaliador": "Marcus",
+      "id": 2
+    },
+    {
+      "Assinatura": "Anual ",
+      "Turno de Treino": " Manhã ",
+      "Instrutor": "  ",
+      " Avaliador": "Marcus",
+      "id": 3
+    }
+  ],
+  "Avaliação": [
+    {
+      "Avaliação Inicial": "70Kg",
+      "Avaliação 15Dias": " 67Kg ",
+      "Avaliação 30Dias": " 69Kg ",
+      "Avaliação 60dias": " 64Kg ",
+      "id": 1
+    }
+  ]
+}
